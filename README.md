@@ -17,7 +17,7 @@
   </a>
   <a href="https://github.com/PanJiaChen/vue-element-admin/releases">
     <img src="https://img.shields.io/github/release/PanJiaChen/vue-element-admin.svg" alt="GitHub release">
-  </a>
+  </a>3213121
   <a href="https://gitter.im/vue-element-admin/discuss">
     <img src="https://badges.gitter.im/Join%20Chat.svg" alt="gitter">
   </a>
